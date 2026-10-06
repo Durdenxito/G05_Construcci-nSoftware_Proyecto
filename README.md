@@ -1,4 +1,6 @@
-# G05 — Construcción de Software I
+# Sistema web basado en visión artificial para la detección de obstrucciones y estimación del riesgo de desborde en canales de la ciudad de Tacna
+
+**Grupo 05 · Construcción de Software I**
 
 Proyecto académico de un sistema web basado en visión artificial para detectar obstrucciones en canales de la ciudad de Tacna y apoyar la evaluación del riesgo de desborde. Permite cargar fotografías, analizar la presencia de residuos y el porcentaje de obstrucción, consultar resultados y gestionar alertas y reportes.
 
